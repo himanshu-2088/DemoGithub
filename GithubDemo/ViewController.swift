@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         
         print("master 1")
         print("master 2")
-        print("master 3 conflict 2")
     }
     
     func feature() {
