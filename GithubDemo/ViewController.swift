@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         print("master 2")
         print("master 3")
     }
+    
+    func feature() {
+        print("feature 1")
+    }
 
 
 }
