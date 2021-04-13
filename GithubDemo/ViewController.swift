@@ -14,12 +14,13 @@ class ViewController: UIViewController {
         
         print("master 1")
         print("master 2")
-        print("master 3")
+        print("master 3 conflict")
     }
     
     func feature() {
         print("feature 1")
         print("feature 2")
+        print("feature 3")
     }
 
 
