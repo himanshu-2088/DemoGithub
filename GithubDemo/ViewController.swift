@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     
     func feature() {
         print("feature 1")
+        print("feature 2")
     }
 
 
